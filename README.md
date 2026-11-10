@@ -34,12 +34,10 @@ QazGuard AI қызметкер мен сыртқы ЖИ-дің (мысалы, Ch
 ## 4. Репозиторий құрылымы
 | Файл | Мазмұны |
 |---|---|
-| `ai_security_gateway_v2.py` | деректер генераторы, DLP, TF-IDF және NB, шлюз, бағалау |
+| `QazGuardAI.py` | деректер генераторы, DLP, TF-IDF және NB, шлюз, бағалау |
 | `synthetic_prompts_kz.csv` | жасанды деректер |
-| `index.html` | сайт және браузердегі демо (DLP бөлігі) |
+| `https://golden-semolina-d90679.netlify.app/` | сайт және браузердегі демо (DLP бөлігі) |
 | `requirements.txt` | тәуелділіктер |
-| `CONTRIBUTION_LOG.md` | жеке үлес журналы |
-| `AI_USE_LOG.md` | ЖИ қолдану декларациясы |
 
 ## 5. Іске қосу
 Python 3.10 немесе жаңарақ қажет.
